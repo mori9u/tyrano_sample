@@ -54,8 +54,8 @@
 僕と/私と、付き合ってほしい。[r]
 告白された。料理は大せいこうだった！！[r]
 【 GOOD END 】[l][r]
-[jump target=*start]
 [cm]
+[jump target=*start]
 
 
 
@@ -66,8 +66,8 @@
 好きぴ「めっちゃうま！なにこれー！でも、もうひと刺激ほしいかも。でも、ありがとね。」[l][r]
 
 告白はされなかったけど、いいご飯会だったな。[l][r]
-[jump target=*start]
 [cm]
+[jump target=*start]
 
 【 BAD END 】[l][r]
 
@@ -75,10 +75,9 @@
 *tag_tomato
 [cm]
 好きぴはたべずにかえった。[l][r]
-
 【 BAD END 】[l][r]
-[jump target=*start]
 [cm]
+[jump target=*start]
 
 
 
@@ -93,8 +92,8 @@
 好きぴはたべずにかえった。[l][r]
 
 【 BAD END 】[l][r]
-[jump target=*start]
 [cm]
+[jump target=*start]
 
 
 
@@ -108,6 +107,6 @@
 びみょーなスープができた。好きぴはたべずにかえった。[l][r]
 
 【 BAD END 】[l][r]
-[jump target=*start]
 [cm]
+[jump target=*start]
 
